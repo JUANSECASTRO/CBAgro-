@@ -1,0 +1,53 @@
+.container {
+  background-color: #ffffff;
+  height: 1000px;
+}
+
+.header {
+  background-color: #ff8138;
+  height: 250px;
+  border-width: 20px;
+}
+
+#sena {
+  position: relative;
+  left: 50px;
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+}
+
+#logo1 {
+  width: 300px;
+  height: 200px;
+}
+
+.footer {
+  background-color: #ff8138;
+  height: 100px;
+  border-width: 20px;
+  text-align: center;
+}
+
+.h3, p {
+  font-family: "Times New Roman", Times, serif;
+  color: #000000;
+}
+
+.copyright {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 8px;
+}
+
+.imgs {
+  margin-top: 24px;
+  margin-right: 15px;
+}
+
+.house__icons {
+  margin-top: 20px;
+  margin-left: 15px;
+}
